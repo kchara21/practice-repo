@@ -1,2 +1,6 @@
 Hola Mundo
+<<<<<<< HEAD
 Hola, soy Dahiana
+=======
+Hola, soy Pamela
+>>>>>>> 143d492d1c5b63022d105f3979df693f0430c2e4
