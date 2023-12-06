@@ -1,14 +1,18 @@
 Hola Mundo
-<<<<<<< HEAD
-
 
 
 
 Erlyn Stuard Naranjo Burgos
-=======
-<<<<<<< HEAD
+
+
+
+Hola, soy Dahiana
+
 Angelo
-=======
+
 Hola, soy Pamela
->>>>>>> 143d492d1c5b63022d105f3979df693f0430c2e4
->>>>>>> 96cf53e72c799b93a1cb4afa5982cb1ecfc746c1
+
+
+Angelo
+Hola, soy Pamela
+
